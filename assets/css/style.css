@@ -513,7 +513,7 @@ header .navbar ul li a:hover {
 
 /* education section starts */
 .education {
-  background: #e5ecfb;
+  background: #fff;
   display: flex;
   flex-direction: column; /* Stack child elements vertically */
   align-items: center; /* Center horizontally */
@@ -629,7 +629,7 @@ header .navbar ul li a:hover {
 
 .experience {
    /* Center text within the section */
-  padding: 15rem;
+  padding-top: 15rem;
 }
 
 .experience .timeline {
